@@ -1,0 +1,10 @@
+{
+  "effects.bone_crack": {
+    "category": "player",
+    "sounds": [{ "name": "realisticdamage:effects/bone_crack", "volume": 1.0 }]
+  },
+  "effects.body_thud": {
+    "category": "player",
+    "sounds": [{ "name": "realisticdamage:effects/body_thud", "volume": 1.0 }]
+  }
+}
