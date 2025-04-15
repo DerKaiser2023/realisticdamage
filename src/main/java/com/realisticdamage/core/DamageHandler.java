@@ -50,7 +50,7 @@ public class DamageHandler {
             playSound(world, event.entityLiving.posX, event.entityLiving.posY, event.entityLiving.posZ, "realisticdamage:effects.body_fall");
         }
 
-        event.ammount = damage;
+        event.amount = damage;
     }
 
     private String pickHitBodyPart() {
